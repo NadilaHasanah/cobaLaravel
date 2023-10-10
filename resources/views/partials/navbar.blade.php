@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light", style="background-color: #FFF2D8">
+<nav class="navbar navbar-expand-lg navbar-light", style="background-color: #BCA37F">
     <div class="container">
       <a class="navbar-brand" href="/">Nadila Blog</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
